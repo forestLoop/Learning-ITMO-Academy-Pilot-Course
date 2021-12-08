@@ -51,3 +51,5 @@
 *.exe
 *.out
 *.app
+
+*.plist
