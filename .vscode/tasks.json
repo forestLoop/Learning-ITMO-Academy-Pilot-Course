@@ -13,7 +13,10 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-Wall",
+                "-Wextra",
+                "-Werror",
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
