@@ -1,7 +1,14 @@
 ﻿---
 BasedOnStyle: Google
 DerivePointerAlignment: 'false'
+PointerAlignment: 'Right'
 IndentWidth: '4'
-ColumnLimit: '120'
+ColumnLimit: '0'
 AllowShortFunctionsOnASingleLine: 'None'
+AllowShortBlocksOnASingleLine: 'Never'
+AllowShortCaseLabelsOnASingleLine: 'false'
+AllowShortEnumsOnASingleLine: 'false'
+AllowShortIfStatementsOnASingleLine: 'Never'
+AllowShortLambdasOnASingleLine: 'None'
+AllowShortLoopsOnASingleLine: 'false'
 ...
